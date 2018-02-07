@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root>
+  <ShopCategories>
+    <Category Code="W01" ShopID="01" ParentCat="" Name="Name here" CatDesc="Category Description" HasChild="true" ColorCode="#3C4448" TileImagePath="" />
+    <Category Code="W01.01" ShopID="0101" ParentCat="W01" Name="Name here 2" CatDesc="Category Description" HasChild="false" ColorCode="" TileImagePath="" />
+  </ShopCategories>
+  <Products>
+    <Product name="book">11,99</Product>
+  </Products>
+</Root>
